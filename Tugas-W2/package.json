@@ -1,0 +1,14 @@
+{
+  "name": "tugas-w2",
+  "version": "1.0.0",
+  "description": "Tugas JS pekan 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "node soal1.js"
+  },
+  "author": "Abdullah Zakaria",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
